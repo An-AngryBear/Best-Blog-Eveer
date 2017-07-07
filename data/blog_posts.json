@@ -1,0 +1,22 @@
+{
+	"posts": [
+		{
+			"author": "Jim Jimmerson",
+			"title": "The ways of Jim",
+			"copy": "The ways of Jim will mystify all those who know not of Jim",
+			"date": "2 October 1997"
+		},
+		{
+			"author": "Dave Davidson",
+			"title": "The Dudes of Dave",
+			"copy": "The dudes know of the Dave more than the Dave knows of the dudes, but the dudes do not know Dave",
+			"date": "20 February 2012"
+		},
+		{
+			"author": "Mary Maryson",
+			"title": "The Mary of Maridon",
+			"copy": "Mary of Maridon was one of Maridon. Maridon knew Mary well",
+			"date": "11 May 1990"
+		}
+	]
+}
